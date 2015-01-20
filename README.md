@@ -4,3 +4,4 @@ I Spend about 2 hr to complete this. I finished the basic calculator app and add
 
 
 ![Alt text](https://github.com/bibhrajit/CodePathTipCalculator/blob/master/TipCalculator.gif "Walkthrough of the App")
+GIF created with LiceCap.
