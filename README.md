@@ -10,6 +10,8 @@ Time spent: 3 hours spent in total
 </ul>
 
 
+
+
 ![Alt text](https://github.com/bibhrajit/CodePathTipCalculator/blob/master/TipCalculator.gif "Walkthrough of the App")
 
 
